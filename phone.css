@@ -1,0 +1,27 @@
+.navbar {
+    height: 8vh;
+}
+
+.navbar li a {
+    font-size: 0.8rem;
+}
+
+.txt {
+    width: 47vw;
+    position: relative;
+    text-align: center;
+    /* animation-name: harry1; */
+    /* animation-name: harry1;
+    animation-duration: 8s;
+    animation-iteration-count: infinite; */
+}
+
+@keyframes harry1 {
+    from {
+        left: 0;
+    }
+
+    to {
+        left: 53vw;
+    }
+}
