@@ -1,24 +1,45 @@
+
+ 
+  h1, p {
+    color: #fff;
+    text-align: center;
+    line-height: 1.4;
+  }
+  
+  h1 {
+    font-size: 2.2rem;
+  }
+  
+  h2 {
+    color: #000;
+    font-size: 1.3rem;
+    text-align: center;
+    line-height: 1.4;
+    margin-bottom: 10px;
+  }
+  
 * {
     margin: 0px;
     padding: 0px;
 }
 
 .navbar {
-    background-color: black;
-    height: 10vh;
+    background-color: rgb(183, 211, 21);
+    height: 7vh;
     position: sticky;
 }
 
 .navbar ul {
     display: flex;
     list-style-type: none;
-    padding: 18px;
+    padding: 32px;
+    padding-left: 2500px;
 }
 
 .navbar li a {
-    color: white;
+    color: rgb(17, 16, 16);
     text-decoration: none;
-    font-size: 1.5rem;
+    font-size: 1.8rem;
     margin: 3vw;
 }
 
@@ -47,13 +68,13 @@ h1 {
     width: 95vw;
     position: relative;
     text-align: center;
-    /* animation-name: harry1; */
-    /* animation-name: harry1;
-    animation-duration: 8s;
+    /* animation-name: harry1; 
+    animation-name: harry1;
+    animation-duration: 6s;
     animation-iteration-count: infinite; */
 }
 
-/* @keyframes harry1 {
+ /* @keyframes harry1 {
     from {
         left: 0;
     }
@@ -61,7 +82,7 @@ h1 {
     to {
         left: 60vw;
     }
-} */
+}  */
 
 
 /* Contact Section */
@@ -120,6 +141,10 @@ h1 {
     z-index: -1;
     opacity: 1;
 }
+Footer
+© 2023 GitHub, Inc.
+Footer navigation
+
 Footer
 © 2023 GitHub, Inc.
 Footer navigation
